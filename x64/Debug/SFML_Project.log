@@ -1,0 +1,79 @@
+﻿  Board.cpp
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(61,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(61,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(113,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(113,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(114,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(114,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(173,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(173,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(182,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(182,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(191,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(191,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(200,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(200,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(219,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(219,46): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(219,46): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(219,46): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(219,46): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(224,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(224,55): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(224,55): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(224,55): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(224,55): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(229,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(229,51): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(229,51): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(229,51): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(229,51): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(234,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(234,56): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(234,56): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(234,56): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(234,56): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(246,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(246,75): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(246,75): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(246,75): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(246,75): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(246,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(246,61): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(246,61): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(246,61): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(246,61): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(249,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(249,75): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(249,75): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(249,75): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(249,75): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(249,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(249,61): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(249,61): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(249,61): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(249,61): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(252,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(252,75): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(252,75): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(252,75): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(252,75): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(252,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(252,61): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(252,61): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(252,61): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(252,61): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(255,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(255,75): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(255,75): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(255,75): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(255,75): warning C4244:         ]
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(255,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(255,61): warning C4244:         with
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(255,61): warning C4244:         [
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(255,61): warning C4244:             T=float
+C:\Users\zakih\OneDrive\Desktop\SFML_Project\Board.cpp(255,61): warning C4244:         ]
+  Main.cpp
+  Menu.cpp
+  Generating Code...
+  SFML_Project.vcxproj -> C:\Users\zakih\OneDrive\Desktop\SFML_Project\x64\Debug\SFML_Project.exe
